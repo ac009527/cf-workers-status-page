@@ -17,7 +17,7 @@ settings:
 monitors:
 
   - id: okbet.com
-    name: bingominigame (prod)
+    name: okbet
     url: 'https://okbet.com/'
     method: GET
     expectStatus: 200
